@@ -10,4 +10,4 @@
 ![Bandarban RUSLE Soil Loss Map](rusle_map.png)
 
 ### 2. Multi-Parameter Terrain Model (DEM, Slope, Aspect, Hillshade, TPI)
-![Bandarban Terrain Map](Soil Erosion Hazard Map.png)
+![Bandarban Terrain Map](terrain_map.jpg)
